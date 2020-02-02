@@ -3,7 +3,7 @@
 - Time necessary : 3 hours
 - Work mode : individual - euhm... 
 - Repository: `ajax-simple-web-service-request`
-- Deployment stragegy : GitHub Page : 
+- Deployment stragegy : GitHub Page : https://lena4496.github.io/ajax-simple-web-service-request/
 
 ## Learning Objectives
 
